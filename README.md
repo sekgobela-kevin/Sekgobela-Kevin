@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sekgobela-Kevin
 - 👀 I’m interested in computer graphics and programming
-- 🌱 I’m currently learning web development especially client side
+- 🌱 I’m currently learning C/C++ programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kevinnoko23@gmail.com
 
