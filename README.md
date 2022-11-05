@@ -2,7 +2,6 @@
 - 👀 I’m interested in python programming
 - 🌱 I’m currently working on python projects
 - 💞️ I’m looking to collaborate on programming projects especially python based
-- 📫 How to reach me kevinnoko23@gmail.com
 
 <!---
 Sekgobela-Kevin/Sekgobela-Kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
