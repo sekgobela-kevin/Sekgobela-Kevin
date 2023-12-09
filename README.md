@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @sekgobela-kevin
-- 👀 I’m interested in python programming
-- 🌱 I’m currently working on python projects
-- 💞️ I’m looking to collaborate on programming projects especially python based
+# Hello, world! 👋
 
-<!---
-Sekgobela-Kevin/Sekgobela-Kevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate technologist with a strong background in programming, data analytics, and IT support. I love solving complex problems and learning new technologies.
+
+## Certifications 🎓
+- Google Project Management
+- Google IT Support
+- Google Data Analytics
+- Google IT Automation with Python
+
+## Skills 💻
+- **Programming**: Python (superpower), C/C++
+- **Data Analytics**: Spreadsheets, SQL, Python
+- **IT Support**: Troubleshooting and other IT duties
+
+## Projects 🚀
+I have more than 10 personal projects on GitHub, mostly in Python and a few in C/C++. Some of my Python projects have been distributed to PyPI.
+
+## Other Technologies 🌐
+- Computer graphics with Blender 3D
+- GIMP for image editing and retouch
+- Inkscape for vector image generation
+
+Keep exploring and happy coding!
